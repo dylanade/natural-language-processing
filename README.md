@@ -22,9 +22,9 @@ This repository contains a collection of Natural Language Processing (NLP) appli
 - **Spelling Autocorrector**  
   A model that automatically corrects misspelled words based on contextual and dictionary-based methods.
 
-## Currently Working On
+## Curently Working On
 
-- **NLP Recommendation Systems**
+- **NLP Recommendation Systems**  
   NLP to analyze and understand user preferences from text data to suggest relevant content or products.
 
 ## Tools & Technologies
