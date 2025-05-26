@@ -1,6 +1,6 @@
-# Natural Language Processing Projects
+# Natural Language Processing
 
-This repository contains a collection of Natural Language Processing (NLP) applications, assignments, and experimental projects. These projects explore a range of NLP tasks, from machine translation to sentiment analysis.
+This repository contains a collection of Natural Language Processing (NLP) applications, research, and experimental projects. These projects explore a range of NLP tasks, from machine translation to sentiment analysis.
 
 ## Projects Included
 
