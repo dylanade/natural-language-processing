@@ -25,7 +25,7 @@ This repository contains a collection of Natural Language Processing (NLP) appli
 ## Curently Working On
 
 - **NLP Recommendation Systems**  
-  NLP to analyze and understand user preferences from text data to suggest relevant content or products.
+  Analyze and understand user preferences from text data to suggest relevant content or products.
 
 ## Tools & Technologies
 
