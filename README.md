@@ -1,4 +1,4 @@
-# Natural Language Processing
+# Natural Language Processing (NLP)
 
 This repository contains a collection of Natural Language Processing (NLP) applications, research, and experimental projects. These projects explore a range of NLP tasks, from machine translation to sentiment analysis.
 
@@ -21,6 +21,11 @@ This repository contains a collection of Natural Language Processing (NLP) appli
 
 - **Spelling Autocorrector**  
   A model that automatically corrects misspelled words based on contextual and dictionary-based methods.
+
+## Currently Working On
+
+- **NLP Recommendation Systems**
+  NLP to analyze and understand user preferences from text data to suggest relevant content or products.
 
 ## Tools & Technologies
 
